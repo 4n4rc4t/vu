@@ -1,0 +1,32 @@
+{
+  "title": "Vampire Survivors",
+  "coverImage": "https://img.itch.zone/aW1nLzcyNDkxNTIucG5n/315x250%23c/YLrvvd.png",
+  "authors": [
+    {
+      "name": "poncle",
+      "url": "https://poncle.itch.io"
+    }
+  ],
+  "tags": [
+    "action",
+    "action-rpg",
+    "arcade",
+    "bullet-hell",
+    "castlevania",
+    "horror",
+    "no-ai",
+    "roguelike",
+    "roguelite",
+    "survival",
+    "survivor-like",
+    "vampire"
+  ],
+  "id": 1242468,
+  "commentsLink": "https://poncle.itch.io/vampire-survivors/comments",
+  "selfLink": "https://poncle.itch.io/vampire-survivors",
+  "author": "poncle",
+  "name": "vampire-survivors",
+  "domain": ".itch.io",
+  "itchGameUrl": "https://poncle.itch.io/vampire-survivors",
+  "itchMetaDataUrl": "https://poncle.itch.io/vampire-survivors/data.json"
+}
